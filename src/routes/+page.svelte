@@ -76,7 +76,7 @@
 <br />
 
 <div class="container" style="overflow: hidden;">
-  <h2 style="text-align: center;">Best Fair-Source ERP for Small and Medium Business</h2>
+  <h2 style="text-align: center;">Best Fair-Source MLM for Small and Medium Business</h2>
   <div class="row">
     <div class="col s12 m4">
       <h5 style="margin: 0 0 0.5em;">µSaaS pricing start from $19/month</h5>
