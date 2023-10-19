@@ -41,7 +41,7 @@
         </h4>
         <p>in an organization.</p>
         <br />
-        <p>Easily create and manage your productized service.</p>
+        <p>Easily promote and sell your productized service.</p>
         <br />
         <p>Notify subscribers, manage playlists, and showcase videos using your very own catalog in minutes. No code needed.</p>
         <br />
