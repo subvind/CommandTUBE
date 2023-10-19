@@ -19,7 +19,7 @@
 </script>
 
 <svelte:head>
-  <title>Media Library Management - nomy.TUBE</title> 
+  <title>Library Management Software - nomy.TUBE</title> 
   <meta name="description" content="A dangerous place to get some flow-based devgramming done." />
 </svelte:head>
 
@@ -31,7 +31,7 @@
     <div class="card">
       <div class="card-content">
         <strong>What is TUBE?</strong>
-        <h1 style="margin: 0;">Media Library Management</h1>
+        <h1 style="margin: 0;">Library Management Software</h1>
         <br />
         <p>TUBE is a system that optomizes the flow of</p>
         <h4 style="margin: 0;">
@@ -40,6 +40,10 @@
           <span class="purple">and subscriptions</span>
         </h4>
         <p>in an organization.</p>
+        <br />
+        <p>Easily create and manage your productized service.</p>
+        <br />
+        <p>Notify subscribers, manage playlists, and showcase videos using your very own catalog in minutes. No code needed.</p>
         <br />
         {#if accessToken}
           <a href={`/${decoded.type === 'user' ? decoded.username : `${decoded.ownername}/${decoded.orgname}/accounts/${decoded.accountname}`}`} class="waves-effect yellow black-text lighten-2 btn username">{decoded.username || decoded.accountname}</a>
@@ -76,7 +80,7 @@
 <br />
 
 <div class="container" style="overflow: hidden;">
-  <h2 style="text-align: center;">Best Fair-Source MLM for Small and Medium Business</h2>
+  <h2 style="text-align: center;">Best Fair-Source LMS for Small and Medium Business</h2>
   <div class="row">
     <div class="col s12 m4">
       <h5 style="margin: 0 0 0.5em;">µSaaS pricing start from $19/month</h5>
